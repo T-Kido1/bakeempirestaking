@@ -1,0 +1,37 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/T-Kido1/bakeempirestaking/ef613be9e1194d8246deddc43f7142d7e0868430/Royal%20Empire%20Staking-02%20(1).png",
+        "url_png_logo": "https://github.com/T-Kido1/bakeempirestaking/raw/main/Royal%20Empire%20Staking-02.png",
+        "location": "Luxembourg",
+        "social": {
+            "twitter_handle": "BakeEmpireStake",
+            "telegram_handle": "+eKTx5xORfnRhNjBk",
+            "facebook_handle": "",
+            "youtube_handle": "bakeEmpireStaking",
+            "twitch_handle": "",
+            "discord_handle": "jNqv54HvMR",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "BakeEmpireStaking",
+            "addr": "",
+            "city": "Luxembourg",
+            "country": "LUX",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "1af9675471ebcf3dd3d6eac7cafb8e3e1df10c82bbccae5dca0e26fc",
+        "1": ""
+      },
+         "telegram-admin-handle": {
+        "0": "BakeEmpireStaking"
+    }
+    }
+   
+}
